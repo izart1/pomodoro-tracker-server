@@ -12,6 +12,7 @@ async function bootstrap() {
       'http://localhost:3000',
       'http://109.71.9.170:3000',
       'http://92.255.67.169:3000',
+      'http://92.255.67.169',
     ],
     credentials: true,
     exposedHeaders: 'set-cookie',
